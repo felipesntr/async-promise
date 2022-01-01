@@ -1,0 +1,16 @@
+{
+  "name": "async-promises-callbacks-event-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "request": "^2.88.2"
+  }
+}
